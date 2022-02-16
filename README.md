@@ -13,6 +13,8 @@
 
 - 💜 &nbsp; I love Porgramming.
 
+- 🔧 &nbsp; Doing my own development projects.
+
 <hr>
 
 
