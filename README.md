@@ -7,8 +7,6 @@
 
 - 🎓 &nbsp; Studying Web Application Development.
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-
 - 🌱 &nbsp; Learning about Web Development.
 
 - 💜 &nbsp; I love Porgramming.
