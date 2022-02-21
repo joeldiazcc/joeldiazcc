@@ -13,6 +13,8 @@
 
 - 🔧 &nbsp; Doing my own development projects.
 
+- 🕐 &nbsp; Also some codes made in class.
+
 <hr>
 
 
