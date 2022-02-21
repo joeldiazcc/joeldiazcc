@@ -1,7 +1,7 @@
 ### Hi there 👋<h2> I'm Joel</h2>
 
 
-<h3> 👾•💻 About Me </h3>
+<h3> •💻 About Me 👾 </h3>
 
 
 
