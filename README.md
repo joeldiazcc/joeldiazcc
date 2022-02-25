@@ -5,7 +5,7 @@
 
 
 
-- 🎓 &nbsp; Studying Web Application Development.
+- 🎓 &nbsp; Studying Web Application Development.  
 
 - 🌱 &nbsp; Learning about Web Development.
 
