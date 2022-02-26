@@ -6,13 +6,9 @@
 
 
 - 🎓 &nbsp; Studying Web Application Development.  
-
 - 🌱 &nbsp; Learning about Web Development.
-
 - 💜 &nbsp; I love Porgramming.
-
 - 🔧 &nbsp; Doing my own development projects.
-
 - 🕐 &nbsp; Also some codes made in class.
 
 <hr>
