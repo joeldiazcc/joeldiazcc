@@ -5,7 +5,7 @@
 
 
 
-- 🎓 &nbsp; Studying Web Application Development.  
+- 🎓 &nbsp; Studying Web Application Development.  DAW2
 - 🌱 &nbsp; Learning about Web Development.
 - 💜 &nbsp; I love Porgramming.
 - 🔧 &nbsp; Doing my own development projects.
