@@ -1,15 +1,15 @@
 ### Hi there 👋<h2> I'm Joel</h2>
 
 
-<h3> 💻 About Me 👾 </h3>
+<h3> 💻 Sobre mi 👾 </h3>
 
 
 
-- 🎓 &nbsp; Studying Web Application Development.  DAW2
-- 🌱 &nbsp; Learning about Web Development.
-- 💜 &nbsp; I love Porgramming.
-- 🔧 &nbsp; Doing my own development projects.
-- 🕐 &nbsp; Also some codes made in class.
+- 💡 &nbsp; Estudiando Desarrollo de Aplicaciones Multiplataforma
+- 🎓 &nbsp; He terminado Desarrollo de Aplicaciones Web y Técnico de sistemas microinformaticos y redes
+- 🌱 &nbsp; Aprendiendo sobre IA y Desarrollo
+- 💜 &nbsp; Me gusta programar y aprender nuevas técnologias.
+- 🔧 &nbsp; Probando herramientas y haciendo proyectos propios
 
 <hr>
 
