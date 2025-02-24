@@ -2,7 +2,6 @@
 
 <h3> 💻 About me 👾 </h3>
 
-- 💡 &nbsp; 
 - 🎓 &nbsp; **Studies:** DAM (Development of Multi-Platform Applications), DAW (Web Application Development), and SMX (Microcomputer Systems and Networks Technician).
 - 🌱 &nbsp; Passionate about AI and Software Development.
 - 💜 &nbsp; Love coding and learning about new technologies.
