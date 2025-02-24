@@ -1,15 +1,19 @@
 ### Hi there 👋<h2> I'm Joel</h2>
 
+<h3> 💻 About me 👾 </h3>
 
-<h3> 💻 Sobre mi 👾 </h3>
+- 💡 &nbsp; 
+- 🎓 &nbsp; **Studies:** DAM (Development of Multi-Platform Applications), DAW (Web Application Development), and SMX (Microcomputer Systems and Networks Technician).
+- 🌱 &nbsp; Passionate about AI and Software Development.
+- 💜 &nbsp; Love coding and learning about new technologies.
+- 🔧 &nbsp; Always experimenting with tools and building personal projects.
 
+<h3> 📜 Certifications & Courses </h3>
 
-
-- 💡 &nbsp; Estudiando Desarrollo de Aplicaciones Multiplataforma
-- 🎓 &nbsp; He terminado Desarrollo de Aplicaciones Web y Técnico de sistemas microinformaticos y redes
-- 🌱 &nbsp; Aprendiendo sobre IA y Desarrollo
-- 💜 &nbsp; Me gusta programar y aprender nuevas técnologias.
-- 🔧 &nbsp; Probando herramientas y haciendo proyectos propios
+- &nbsp; Microsoft Certified: Fundamentals of Dynamics 365 (ERP)
+- &nbsp; Framework: Angular
+- &nbsp; Oracle: Database Foundations
+- &nbsp; Google: Introduction to Web Development (HTML and CSS)
 
 <hr>
 
