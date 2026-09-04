@@ -9,8 +9,8 @@
 
 ### 💻 About Me & Transition 🚀
 
-- 🎓 **Studies:** Currently pursuing a Degree in Applied Data Science at **UOC**, complemented by CFGS in Multi-Platform Application Development (**DAM**), Web Application Development (**DAW**), and Microcomputer Systems & Networks (**SMX**)[cite: 1, 2].
-- 💡 **The Edge:** Combining solid professional experience in IT Infrastructure & Cloud administration (**Capitole Consulting**[cite: 1, 2]), Full-Stack software engineering (**Palatin**[cite: 1, 2]), and technical support (**Sosmatic**[cite: 1, 2]) to build robust, production-ready data solutions.
+- 🎓 **Studies:** Currently pursuing a Degree in Applied Data Science at **UOC**, complemented by CFGS in Multi-Platform Application Development (**DAM**), Web Application Development (**DAW**), and Microcomputer Systems & Networks (**SMX**).
+- 💡 **The Edge:** Combining solid professional experience in IT Infrastructure & Cloud administration (**Capitole Consulting**), Full-Stack software engineering (**Palatin**), and technical support (**Sosmatic**) to build robust, production-ready data solutions.
 - 📊 **Focus:** Automating data pipelines, translating complex business problems into quantitative models, and bridging the gap between systems operations and Data Science.
 
 ---
@@ -18,17 +18,17 @@
 ### 🛠️ Tech Stack & Skills
 
 - **Data Science & Analytics:** Python (Pandas, NumPy, Scikit-Learn), SQL, Data Wrangling, Exploratory Data Analysis (EDA), Time Series.
-- **Software Development:** Full-Stack development (APIs REST, Web Apps), Java, Angular[cite: 1, 2].
-- **Cloud & Systems Infrastructure:** Azure AD, Microsoft 365, AWS, Git / GitHub, Automation, CI/CD, Linux environments[cite: 1, 2].
+- **Software Development:** Full-Stack development (APIs REST, Web Apps), Java, Angular.
+- **Cloud & Systems Infrastructure:** Azure AD, Microsoft 365, AWS, Git / GitHub, Automation, CI/CD, Linux environments.
 
 ---
 
 ### 📜 Certifications & Courses
 
-- **AWS:** Future AI Engineer · Machine Learning Foundations · Generative AI with AWS[cite: 1, 2]
-- **Oracle:** Database Foundations[cite: 2]
-- **Microsoft Certified:** Fundamentals of Dynamics 365 (ERP)[cite: 2]
-- **Project Management:** Introduction to Project Management[cite: 2]
+- **AWS:** Future AI Engineer · Machine Learning Foundations · Generative AI with AWS
+- **Oracle:** Database Foundations
+- **Microsoft Certified:** Fundamentals of Dynamics 365 (ERP)
+- **Project Management:** Introduction to Project Management
 
 ---
 
