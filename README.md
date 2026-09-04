@@ -34,5 +34,5 @@
 
 ### 📈 Featured Projects (Data Science & Analytics)
 *(Check out my pinned repositories below for end-to-end implementations)*
-- **Inventory & E-commerce Optimization:** Advanced data wrangling and time-series analysis for stock prediction using Python and SQL.
-- **Customer Churn & Segmentation:** Machine learning models (Random Forest, K-Means) built to solve business retention challenges.
+- **Inventory & E-commerce Optimization:** Advanced data wrangling and time-series analysis for stock prediction using Python and SQL. (in process...)
+- **Customer Churn & Segmentation:** Machine learning models (Random Forest, K-Means) built to solve business retention challenges. (próximamente)
